@@ -8,6 +8,16 @@ In the project directory, you can run:
 
 ### `npm start`
 
+If the project showing below error while running on local machine
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above. npm WARN Local package.json exists, but node_modules missing, did you mean to install? npm ERR! A complete log of this run can be found in: npm ERR! C:\Users\ranja\AppData\Roaming\npm-cache\_logs\2021-09-29T12_10_46_124Z-debug.log
+than first
+
+### `npm install`
+
+than 
+
+### `npm start`
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
